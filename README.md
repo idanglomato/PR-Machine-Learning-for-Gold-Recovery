@@ -10,3 +10,5 @@ In the future, this model is expected to help create a more efficient production
 
 ### Objectives
 Develop a machine learning process to predict rougher output recovery and final output recovery from gold extraction process.
+
+NB. Since datasets are bigger than 25MB, they are not uploaded to this repository.
